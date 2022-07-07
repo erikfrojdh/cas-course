@@ -1,6 +1,3 @@
-
-
-
 template <class T>
 ImageData<T> apply_calibration(DataSpan<uint16_t, 2> raw_data,
                                DataSpan<T, 3> pedestal,
